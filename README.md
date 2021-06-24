@@ -2,7 +2,8 @@
 - 👀 I’m interested in ReactJS and Android
 - 🌱 I’m currently learning ReactJS
 
-This is my repository for Capstone project 
+Check out my work on the **Capstone Project** at the end of the semester
+
 
 <!---
 Go-ixeSam/Go-ixeSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
